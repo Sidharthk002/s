@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+.first{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.anc{
+    color:pink;
+    padding-left: 50px;
+    cursor: pointer;
+}
